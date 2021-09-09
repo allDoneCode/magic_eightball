@@ -1,0 +1,5 @@
+## MAgic Eightball code
+
+response = input('What is your question? ')
+
+# Need to figure out random value caller
